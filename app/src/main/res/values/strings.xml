@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">MyProjectApp1</string>
+    <string name="home_page">Home Page</string>
+    <string name="animals">Animals</string>
+    <string name="plants">Plants</string>
+    <string name="architecture">Architecture</string>
+    <string name="body_parts">Body parts</string>
+    <string name="_3d_library">3D LIBRARY</string>
+    <string name="tools">Tools</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_options">More Options</string>
+    <string name="button">Button</string>
+    <string name="light">Light</string>
+    <string name="theme">Theme</string>
+    <string name="this_is_brief_description_about_the_ar_technology_which_we_use_for_our_major_project_more_sentences_blah_blah_blah_blah" tools:ignore="Typos">This is brief description about the AR technology which we use for our major project. more sentences blah blah blah blah</string>
+    <string name="ar_tech_fragment">AR Tech Fragment</string>
+    <string name="about_us_fragment">About Us Fragment</string>
+    <string name="this_is_brief_description_about_our_app_and_the_services_we_provide_through_it_more_sentences_blah_blah_blah_blah" tools:ignore="Typos">This is brief description about our app and the services we provide through it. more sentences blah blah blah blah</string>
+    <string name="menu1">MENU</string>
+</resources>
